@@ -21,7 +21,7 @@ a {
 }
 
 #fork img{
-    height: 15px;
+    height: 25px;
     margin-bottom: 25px;
     filter: invert(1);
 }
@@ -46,16 +46,16 @@ a {
 
 .card {
     color: black;
-    text-align: left;
+    text-align: center;
 }
 
 .card-title {
-    font-weight: 700;
+    font-weight: 300;
 }
 
 .bg-3 {
-    background-color: #000000; /* Black */
-    color: #ffffff;
+    background-color: #892048; /* Black */
+    color: #892048;
 }
 
 .bg-4 {
