@@ -3,9 +3,9 @@ html, body {
 }
 
 body {
-    font: 20px Montserrat, sans-serif;
-    line-height: 1.8;
-    color: #f5f6f7;
+    font-family: hiragino-kaku-gothic-pron, sans-serif;
+font-weight: 300;
+font-style: normal;
 }
 
 p {
