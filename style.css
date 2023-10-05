@@ -9,11 +9,11 @@ font-style: normal;
 }
 
 p {
-    font-size: 100px;
+    font-size: 16px;
 }
 
 a {
-    color: #2e72a1;
+    color: #00ff00;
 }
 
 #logo, .project-img {
