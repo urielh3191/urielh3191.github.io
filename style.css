@@ -4,63 +4,66 @@ html, body {
 
 body {
     font-family: hiragino-kaku-gothic-pron, sans-serif;
-font-weight: 300;
+font-weight: 100;
 font-style: normal;
 }
 
 p {
-    font-size: 24px;
+    font-size: 26px;
+    color: #ffffff
 }
 
 a {
-    color: #00ff00;
+    color: #ffffff;
 }
 
 #logo, .project-img {
-    max-height: 400px;
+    max-height: 300px;
 }
 
 #fork img{
-    height: 25px;
+    height: 40px;
     margin-bottom: 25px;
     filter: invert(1);
 }
 
 #sep {
-    height: 75px;
+    height: 45px;
 }
 
 .margin {
-    margin-bottom: 45px;
+    margin-bottom: 20px;
 }
 
 .bg-1 {
+
     background-color: #675A6F; /* Chinese Violet */
-    color: #675A6F;
+    color: #ffffff;
+    text-anchor: center;
 }
 
 .bg-2 {
     background-color: #2e72a1; /* Blue */
-    color: #ffffff;
+    color: #00ff00;
 }
 
 .card {
-    color: black;
+    color: white;
     text-align: center;
 }
 
 .card-title {
-    font-weight: 300;
+    font-weight: 10;
 }
 
-.bg-3 {
-    background-color: #892048; /* Black */
-    color: #892048;
+.bg-3 { /*ABOUT ME SECTION*/
+    background-color: #7161ef; /* Black */
+    color: #ffffff;
 }
 
 .bg-4 {
-    background-color: #540187; /* Dark Gray */
-    color: #540187;
+    background-color: #000000; /* Dark Gray */
+    color: #ffffff;
 }
 
 .container-fluid {
@@ -69,15 +72,15 @@ a {
 }
 
 .navbar {
-    padding-top: 15px;
-    padding-bottom: 15px;
-    border: 0;
-    border-radius: 0;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 7;
+    border-radius: 60;
     margin-bottom: 0;
-    font-size: 12px;
-    letter-spacing: 5px;
+    font-size: 18px;
+    letter-spacing: 1.5px;
 }
 
 .navbar-nav li a:hover {
-    color: #2e72a1 !important;
+    color: #ffb2a4 !important;
 }
