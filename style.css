@@ -11,6 +11,7 @@ font-style: normal;
 p {
     font-size: 26px;
     color: #ffffff
+      background: linear-gradient(to bottom, lightsteelblue, #3df89d);
 }
 
 a {
