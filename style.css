@@ -10,12 +10,12 @@ font-style: normal;
 
 p {
     font-size: 26px;
-    color: #ffffff
+    color: #000000;
       background: linear-gradient(to bottom, lightsteelblue, #3df89d);
 }
 
 a {
-    color: #ffffff;
+    color: #000000;
 }
 
 #logo, .project-img {
@@ -46,7 +46,7 @@ a {
 .bg-2 {
     background-color: #2e72a1; /* Blue */
     color: #00ff00;
-    text-color:#000000;
+    
 }
 
 .card {
@@ -59,7 +59,7 @@ a {
 }
 
 .bg-3 { /*ABOUT ME SECTION*/
-    background-color: #7161ef; /* Purpley */
+    background-color: #7161ef; /* Black */
     color: #ffffff;
 }
 
