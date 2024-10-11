@@ -46,7 +46,7 @@ a {
 .bg-2 {
     background-color: #2e72a1; /* Blue */
     color: #00ff00;
-    
+
 }
 
 .card {
@@ -56,6 +56,7 @@ a {
 
 .card-title {
     font-weight: 10;
+    color:black;
 }
 
 .bg-3 { /*ABOUT ME SECTION*/
